@@ -1,0 +1,631 @@
+vendor_id,vendor_name,category,spend_amount,date,department,payment_method
+V008,Hexaware Technologies,it services,10459.9,2023-10-22,HR,
+V015,IBM India,,44778.95,11/06/2023,HR,Bank Transfer
+V011,Amazon Web Services,CLOUD,33309.16,2023-09-17,Marketing,RTGS
+V002,Infosys Ltd,legal compliance,79846.74,2023-02-16,IT,RTGS
+V007,,Logistics,27262.36,2023-01-01,Operations,Bank Transfer
+V008,Hexaware Technologies,LEGAL,26936.65,2023-11-20,R&D,Cheque
+V006,L&T Infotech,MARKETING,44606.82,2023-03-03,Procurement,UPI
+V019,DHL India,TELECOM,6570.22,2023-09-30,Operations,
+V016,Reliance Jio,,117084.85,2023-06-06,Legal,
+V003,Wipro Technologies,IT services,24308.92,2023-08-29,Procurement,Bank Transfer
+V011,Amazon Web Services,Marketing,8222.43,2023-09-13,IT,UPI
+V002,Infosys Ltd,it services,71178.17,2023-04-15,Finance,RTGS
+V020,,Human Resources,10485.09,2023-01-07,Operations,Credit Card
+V016,RELIANCE JIO,legal compliance,21417.14,2023-10-10,Administration,NEFT
+V015,IBM India,Legal,21921.55,2023-09-11,Finance,
+V001,Tata Consultancy Services,facilities,57663.57,2023-03-14,Operations,Credit Card
+V012,Microsoft India,HR & Payroll,447246.3,2023-03-20,Administration,Cheque
+V014,SAP India,MARKETING,6388.78,2023-04-15,Marketing,RTGS
+V012,Microsoft India,IT Services,49675.46,2023-09-08,Procurement,Bank Transfer
+V005,Tech Mahindra,Facility Management,19692.25,2023-01-24,Administration,Bank Transfer
+V006,L&T Infotech,Supply Chain,129126.35,2023-12-01,R&D,UPI
+V013,Oracle India,HR Payroll,3655.78,2023-03-13,Marketing,NEFT
+V016,Reliance Jio,Telecommunication,30268.35,2023-10-02,Marketing,Bank Transfer
+V017,Airtel Business,Telecommunication,29973.64,2023-04-15,Legal,RTGS
+V003,Wipro Technologies,Cloud Infra,11236.62,2023-11-01,Legal,UPI
+V001,Tata Consultancy Services,Mktg,184360.22,2023-07-11,Administration,Cheque
+V010,Capgemini India,Mktg,93829.85,2023-11-17,Marketing,UPI
+V020,BLUE DART EXPRESS,Legal & Compliance,11537.43,2023-02-16,IT,Credit Card
+V017,Airtel Business,HR/Payroll,57111.49,2023-09-09,Operations,RTGS
+V002,,facilities,275011.99,2023-01-16,Administration,Cheque
+V013,Oracle India,HR & Payroll,16113.39,2023-03-02,Legal,NEFT
+V003,Wipro Technologies,Logistic,56382.71,2023-12-04,Finance,RTGS
+V009,Cognizant India,Telecom,10150.07,2023-03-04,Administration,Bank Transfer
+V015,IBM India,Facility Management,,2023-07-22,Finance,UPI
+V011,,HR & Payroll,11275.44,2023-07-07,Sales,UPI
+V015,IBM India,Facilities,19231.17,2023-08-04,Marketing,RTGS
+V010,Capgemini India,Telecom,54110.14,2023-01-28,R&D,
+V005,Tech Mahindra,logistics,742.84,2023-02-28,HR,Bank Transfer
+V013,ORACLE INDIA,marketing,10085.51,2023-05-23,HR,
+V013,Oracle India,Cloud Infra,,2023-12-09,Procurement,Bank Transfer
+V015,IBM India,IT SERVICES,89529.16,2023-05-28,HR,Credit Card
+V011,amazon web services,Cloud Infra,48916.24,2023-10-21,Operations,Credit Card
+V018,BSNL,TELECOM,35178.25,2023-01-07,Operations,UPI
+V013,ORACLE INDIA,marketing,17592.32,28/11/2023,HR,NEFT
+V015,IBM India,TELECOM,41955.08,2023-11-24,Sales,RTGS
+V018,BSNL,,33106.27,2023-05-22,Procurement,NEFT
+V003,Wipro Technologies,logistics,24876.45,2023-01-29,R&D,RTGS
+V004,HCL TECHNOLOGIES,logistics,65910.76,2023-04-25,HR,NEFT
+V007,Mphasis,IT services,40291.98,2023-08-31,Finance,NEFT
+V011,Amazon Web Services,Cloud Infrastructure,145847.19,2023-04-26,IT,
+V001,Tata Consultancy Services,Legal & Compliance,16745.02,2023-08-15,Administration,Cheque
+V016,Reliance Jio,logistics,35415.97,2023-03-04,Marketing,UPI
+V010,CAPGEMINI INDIA,facilities,54726.71,2023-11-14,Legal,Cheque
+V020,Blue Dart Express,Logistic,17672.05,2023-09-05,Marketing,NEFT
+V007,Mphasis,HR Payroll,20283.51,2023-08-19,Finance,Bank Transfer
+V009,Cognizant India,LEGAL,,2023-05-10,Administration,NEFT
+V009,Cognizant India,,37399.48,2023-06-11,IT,Bank Transfer
+V003,Wipro Technologies,FACILITIES,37127.09,2023-08-08,Procurement,Cheque
+V005,Tech Mahindra,LEGAL,18687.7,2023-09-22,Sales,
+V002,Infosys Ltd,HR Payroll,78144.19,2023-08-18,Operations,NEFT
+V010,Capgemini India,Supply Chain,27919.46,2023-02-03,IT,
+V009,Cognizant India,Cloud Infra,256360.17,2023-12-07,Legal,Credit Card
+V013,,logistics,19323.82,2023-03-16,Administration,Bank Transfer
+V003,Wipro Technologies,cloud infrastructure,97446.02,2023-11-30,Finance,UPI
+V008,Hexaware Technologies,Human Resources,28462.58,2023-10-28,Administration,UPI
+V004,HCL Technologies,Cloud Infra,54687.06,2023-11-25,HR,Credit Card
+V018,BSNL,Marketing,184884.77,2023-08-09,Legal,Bank Transfer
+V018,BSNL,it services,20767.08,2023-01-17,HR,
+V011,Amazon Web Services,facilities,82723.73,2023-03-14,Administration,UPI
+V003,Wipro Technologies,HR Payroll,19219.7,2023-06-17,Sales,Cheque
+V002,Infosys Ltd,telecom,66568.36,2023-02-26,Operations,
+V009,cognizant india,Mktg,26269.14,2023-09-23,Legal,UPI
+V010,Capgemini India,IT services,1870.62,2023-04-09,IT,
+V006,L&T Infotech,CLOUD,6527.83,2023-03-13,HR,NEFT
+V018,BSNL,MARKETING,4898.64,2023-01-26,Operations,Cheque
+V008,Hexaware Technologies,facilities,,2023-12-15,Legal,NEFT
+V012,Microsoft India,cloud infrastructure,16634.41,2023-06-04,Legal,RTGS
+V004,HCL Technologies,Logistic,4378.02,2023-04-18,R&D,Credit Card
+V012,Microsoft India,IT services,59595.61,2023-10-15,R&D,RTGS
+V015,IBM India,Legal & Compliance,64079.84,2023-06-10,Procurement,Credit Card
+V014,SAP India,Facilities,213944.7,2023-12-23,R&D,Bank Transfer
+V015,IBM India,LEGAL,3489.43,2023-01-26,Finance,RTGS
+V002,infosys ltd,IT SERVICES,46947.06,2023-07-06,Administration,Cheque
+V014,SAP India,facilities,19888.39,2023-08-28,IT,NEFT
+V012,Microsoft India,,55789.72,2023-12-08,Sales,RTGS
+V001,TATA CONSULTANCY SERVICES,CLOUD,143272.67,2023-08-16,Procurement,Cheque
+V004,HCL TECHNOLOGIES,Legal,36544.74,2023-12-13,Operations,
+V002,Infosys Ltd,Legal,98251.59,2023-12-18,Procurement,NEFT
+V005,Tech Mahindra,logistics,233262.87,2023-09-05,Procurement,Cheque
+V009,Cognizant India,Cloud Infrastructure,129328.3,2023-07-26,Operations,UPI
+V004,HCL Technologies,Logistics,9627.68,2023-02-25,Finance,UPI
+V014,SAP India,Telecommunication,949986.45,2023-07-05,Administration,UPI
+V011,Amazon Web Services,IT services,12698.74,2023-10-18,Legal,UPI
+V005,Tech Mahindra,HR Payroll,67725.35,2023-04-22,Finance,UPI
+V005,Tech Mahindra,Cloud Infra,,2023-06-27,Sales,Bank Transfer
+V018,BSNL,LEGAL,41805.9,2023-05-29,IT,Bank Transfer
+V006,L&T Infotech,IT SERVICES,91586.42,2023-11-24,Procurement,RTGS
+V008,Hexaware Technologies,Legal,16580.87,2023-01-23,IT,RTGS
+V006,L&T Infotech,logistics,39572.1,2023-07-10,Operations,
+V013,Oracle India,Logistics,52949.65,2023-01-06,Sales,Credit Card
+V001,Tata Consultancy Services,facilities,12983.19,2023-12-18,Procurement,Bank Transfer
+V008,Hexaware Technologies,facilities,20434.72,2023-05-23,Legal,
+V013,Oracle India,it services,39488.41,2023-08-14,IT,Cheque
+V003,Wipro Technologies,IT services,40802.27,2023-04-13,HR,
+V011,Amazon Web Services,telecom,67274.94,2023-02-15,Legal,Cheque
+V007,Mphasis,facilities,11756.3,2023-11-27,Marketing,Bank Transfer
+V006,L&T INFOTECH,facilities,46358.33,2023-10-12,Administration,Credit Card
+V014,SAP India,cloud infrastructure,40831.59,22/01/2023,Sales,NEFT
+V014,SAP India,Cloud Infrastructure,383720.68,2023-08-22,Administration,UPI
+V018,BSNL,Telecom,85545.24,2023-07-31,HR,RTGS
+V017,Airtel Business,marketing,25590.27,2023-03-09,Sales,Credit Card
+V015,IBM India,facilities,49281.55,2023-02-22,R&D,Bank Transfer
+V002,Infosys Ltd,Legal & Compliance,7997.94,2023-09-21,Marketing,Cheque
+V006,L&T Infotech,legal compliance,98361.33,2023-08-07,Legal,Credit Card
+V006,L&T Infotech,,116527.8,2023-10-19,Finance,RTGS
+V017,Airtel Business,legal compliance,39380.35,2023-01-22,Sales,
+V012,Microsoft India,Cloud Infra,20681.38,2023-05-08,Operations,Credit Card
+V013,Oracle India,it services,21308.22,2023-11-26,Finance,NEFT
+V001,Tata Consultancy Services,Telecom,92001.56,2023-03-06,Finance,Bank Transfer
+V015,IBM India,HR/Payroll,15639.21,2023-11-07,R&D,Credit Card
+V020,Blue Dart Express,MARKETING,,14/06/2023,Sales,
+V009,Cognizant India,Marketing,13867.0,2023-05-04,Operations,Credit Card
+V013,Oracle India,Cloud Infra,20613.09,2023-10-14,Marketing,Cheque
+V008,,Logistic,36764.19,2023-05-09,Operations,NEFT
+V020,Blue Dart Express,IT SERVICES,121485.64,2023-06-19,Procurement,Credit Card
+V003,Wipro Technologies,Legal,34190.88,2023-01-06,Administration,RTGS
+V019,DHL India,Legal,173958.94,2023-08-21,Marketing,Credit Card
+V016,RELIANCE JIO,it services,110350.07,2023-11-05,HR,NEFT
+V001,Tata Consultancy Services,CLOUD,52737.87,2023-05-05,Administration,Credit Card
+V011,,HR Payroll,27900.33,2023-07-16,HR,Credit Card
+V020,Blue Dart Express,Logistic,31644.39,2023-06-04,HR,Bank Transfer
+V019,DHL India,Telecommunication,28109.52,2023-06-20,HR,RTGS
+V018,BSNL,logistics,225852.14,23/03/2023,Finance,Credit Card
+V018,BSNL,LEGAL,51417.29,2023-06-03,Sales,
+V012,Microsoft India,Cloud Infrastructure,69638.44,2023-11-22,R&D,NEFT
+V015,IBM India,Telecommunication,228498.9,2023-01-09,Administration,Bank Transfer
+V020,Blue Dart Express,MARKETING,11220.34,2023-06-27,Administration,Credit Card
+V008,Hexaware Technologies,Facilities,11940.41,2023-01-17,R&D,UPI
+V013,Oracle India,telecom,22438.54,2023-05-05,R&D,Credit Card
+V018,BSNL,Mktg,117025.1,2023-01-12,Finance,RTGS
+V005,Tech Mahindra,IT SERVICES,20098.47,2023-01-20,Finance,NEFT
+V005,Tech Mahindra,legal compliance,33811.95,2023-02-09,Administration,UPI
+V005,Tech Mahindra,Logistics,83130.99,2023-05-17,Legal,
+V003,Wipro Technologies,Telecommunication,16396.96,2023-02-19,HR,Bank Transfer
+V016,Reliance Jio,,88094.02,2023-09-18,Finance,Bank Transfer
+V015,IBM India,LEGAL,139175.35,2023-08-20,HR,RTGS
+V004,HCL Technologies,Logistics,27420.21,2023-08-24,Finance,UPI
+V004,HCL Technologies,IT services,67936.58,2023-06-16,Finance,
+V011,Amazon Web Services,facilities,100661.89,2023-06-03,R&D,UPI
+V018,BSNL,Marketing,7377.4,2023-04-22,Marketing,Bank Transfer
+V014,SAP India,HR & Payroll,16615.31,2023-01-27,Marketing,Credit Card
+V006,L&T Infotech,Cloud Infra,43672.34,2023-03-21,Finance,NEFT
+V020,Blue Dart Express,Facility Management,149541.34,2023-01-19,Sales,
+V014,SAP India,HR & Payroll,121083.96,2023-08-04,HR,Credit Card
+V002,Infosys Ltd,Logistics,73440.33,2023-02-16,Finance,NEFT
+V019,DHL India,Legal & Compliance,45992.49,2023-01-26,Finance,UPI
+V009,Cognizant India,Telecommunication,33276.45,2023-02-16,Operations,
+V019,DHL India,Cloud Infrastructure,14024.38,2023-12-24,Marketing,Cheque
+V003,Wipro Technologies,LEGAL,5243.48,2023-12-02,Marketing,Credit Card
+V010,Capgemini India,FACILITIES,7446.15,2023-11-21,Operations,Credit Card
+V011,Amazon Web Services,Mktg,35496.19,2023-01-09,IT,RTGS
+V004,HCL Technologies,,38472.61,2023-04-27,R&D,UPI
+V009,Cognizant India,telecom,4400.67,2023-06-17,Administration,UPI
+V008,Hexaware Technologies,Legal & Compliance,13539.08,2023-11-03,R&D,
+V008,Hexaware Technologies,IT Services,33973.73,2023-03-03,Legal,
+V004,HCL Technologies,Facility Management,335284.2,2023-01-28,Administration,Credit Card
+V007,Mphasis,logistics,17856.35,2023-02-25,IT,UPI
+V019,DHL India,cloud infrastructure,-6271.57,2023-12-17,Marketing,UPI
+V020,Blue Dart Express,CLOUD,67327.67,2023-06-30,Legal,
+V011,Amazon Web Services,HR Payroll,17903.69,2023-09-21,R&D,NEFT
+V010,,Facility Management,7448.14,2023-03-13,Administration,Credit Card
+V011,Amazon Web Services,Mktg,48650.85,2023-06-03,Procurement,RTGS
+V002,Infosys Ltd,Cloud Infra,,2023-03-02,Administration,
+V005,tech mahindra,cloud infrastructure,1566.04,23/04/2023,Procurement,NEFT
+V020,Blue Dart Express,Logistic,-20311.02,2023-02-22,Legal,Bank Transfer
+V008,Hexaware Technologies,telecom,47976.18,2023-10-15,Finance,Cheque
+V003,Wipro Technologies,facilities,29062.65,2023-06-19,Sales,Bank Transfer
+V018,BSNL,HR & Payroll,14652.69,2023-01-07,Operations,Bank Transfer
+V012,Microsoft India,LEGAL,15534.16,2023-08-11,R&D,RTGS
+V015,IBM India,Legal & Compliance,40314.1,2023-11-10,Administration,
+V020,Blue Dart Express,Logistic,17672.05,2023-09-05,Marketing,NEFT
+V014,sap india,TELECOM,45172.31,2023-12-19,HR,Cheque
+V005,Tech Mahindra,CLOUD,77601.21,2023-02-28,Marketing,
+V013,Oracle India,Supply Chain,56047.97,2023-10-08,Procurement,
+V007,Mphasis,facilities,66012.4,2023-06-03,Operations,NEFT
+V001,Tata Consultancy Services,HR/Payroll,23817.69,2023-03-23,R&D,Cheque
+V003,Wipro Technologies,Cloud Infrastructure,143112.65,2023-01-02,IT,Cheque
+V014,SAP India,Legal,27419.67,2023-02-17,Operations,Cheque
+V012,Microsoft India,,103443.9,2023-12-05,R&D,Cheque
+V015,IBM India,HR/Payroll,31147.8,2023-12-27,Marketing,Credit Card
+V013,Oracle India,logistics,14460.6,2023-09-09,Administration,NEFT
+V015,IBM India,IT services,469601.64,2023-07-21,Operations,UPI
+V014,sap india,Logistics,6669.07,2023-04-02,Sales,UPI
+V008,Hexaware Technologies,Legal & Compliance,27856.91,2023-02-09,Marketing,UPI
+V002,Infosys Ltd,Cloud Infrastructure,13457.92,2023-01-04,Finance,Cheque
+V002,Infosys Ltd,marketing,8933.7,2023-05-16,HR,Credit Card
+V007,Mphasis,Telecommunication,14362.68,2023-01-24,Marketing,Bank Transfer
+V009,Cognizant India,,40542.78,2023-09-06,Sales,Credit Card
+V005,Tech Mahindra,,50239.07,2023-03-27,Legal,Credit Card
+V006,l&t infotech,Legal,25057.92,2023-12-09,Procurement,
+V019,DHL India,IT SERVICES,76941.51,2023-06-04,Sales,Cheque
+V019,DHL India,Telecommunication,22254.72,2023-09-14,HR,Bank Transfer
+V008,hexaware technologies,Cloud Infra,,2023-12-03,Procurement,UPI
+V002,Infosys Ltd,Marketing,89470.53,2023-12-23,Procurement,UPI
+V009,Cognizant India,logistics,5151.02,2023-02-01,R&D,NEFT
+V005,Tech Mahindra,Facility Management,55744.56,05/10/2023,Legal,Cheque
+V020,Blue Dart Express,Supply Chain,64107.13,2023-01-08,Sales,UPI
+V019,DHL India,Telecom,76798.76,2023-08-21,Finance,NEFT
+V009,Cognizant India,HR/Payroll,66244.03,2023-03-24,Procurement,Credit Card
+V006,l&t infotech,Logistics,30127.31,2023-06-06,R&D,Credit Card
+V017,Airtel Business,Logistics,93386.45,2023-06-01,Administration,Credit Card
+V004,HCL Technologies,facilities,26934.32,2023-10-31,Operations,UPI
+V010,Capgemini India,Cloud Infra,135744.84,2023-04-29,R&D,UPI
+V018,BSNL,Mktg,46953.47,2023-10-15,Procurement,
+V004,HCL Technologies,HR Payroll,54513.07,2023-12-22,HR,Credit Card
+V001,Tata Consultancy Services,Logistics,58299.14,2023-07-27,Procurement,Cheque
+V013,Oracle India,HR & Payroll,,2023-05-22,HR,Credit Card
+V005,Tech Mahindra,cloud infrastructure,38440.94,2023-10-16,Operations,
+V018,BSNL,,11183.44,2023-11-25,Sales,NEFT
+V004,HCL Technologies,Supply Chain,34918.3,2023-07-15,IT,
+V015,IBM India,Facilities,30440.56,2023-05-07,HR,Cheque
+V014,SAP India,Telecommunication,,2023-08-18,Administration,
+V003,Wipro Technologies,Cloud Infra,6707.92,2023-04-08,Sales,Bank Transfer
+V019,DHL India,CLOUD,5896.91,2023-07-01,Procurement,
+V016,Reliance Jio,,8291.31,2023-06-14,Administration,
+V010,Capgemini India,LEGAL,64125.64,2023-11-22,HR,NEFT
+V004,HCL Technologies,FACILITIES,10770.89,2023-02-02,R&D,Cheque
+V011,Amazon Web Services,Marketing,2557.12,2023-07-26,IT,Bank Transfer
+V020,Blue Dart Express,IT services,24694.53,2023-04-16,HR,Bank Transfer
+V009,,cloud infrastructure,187654.52,2023-07-30,IT,Bank Transfer
+V014,SAP India,HR & Payroll,39692.35,2023-03-23,Marketing,
+V007,Mphasis,HR Payroll,12194.44,2023-03-14,Marketing,Bank Transfer
+V018,BSNL,Legal & Compliance,12919.06,2023-05-19,Procurement,NEFT
+V011,,Logistics,24070.51,2023-05-24,Legal,UPI
+V005,Tech Mahindra,Telecom,16118.03,2023-12-28,Sales,Cheque
+V016,Reliance Jio,it services,204819.08,2023-03-23,Sales,Bank Transfer
+V013,ORACLE INDIA,Marketing,271502.0,2023-01-08,Legal,RTGS
+V016,Reliance Jio,HR/Payroll,64522.92,2023-03-09,Operations,Credit Card
+V016,reliance jio,Cloud Infrastructure,8230.97,2023-11-20,HR,Credit Card
+V003,Wipro Technologies,Human Resources,30611.92,2023-06-16,Legal,NEFT
+V007,Mphasis,Cloud Infra,72021.39,2023-03-01,Administration,RTGS
+V012,Microsoft India,IT Services,49675.46,2023-09-08,Procurement,Bank Transfer
+V006,L&T Infotech,Human Resources,3847.0,2023-11-21,Legal,Bank Transfer
+V004,HCL Technologies,TELECOM,40928.49,2023-12-06,Marketing,Cheque
+V006,L&T Infotech,Legal & Compliance,6779.91,2023-01-12,Finance,NEFT
+V010,Capgemini India,Telecom,168248.59,2023-09-03,Marketing,NEFT
+V018,BSNL,Cloud Infrastructure,75660.5,2023-10-07,IT,Bank Transfer
+V005,Tech Mahindra,Cloud Infrastructure,3038.35,2023-10-16,Sales,Bank Transfer
+V008,Hexaware Technologies,HR & Payroll,3631.77,2023-01-24,Marketing,Bank Transfer
+V003,wipro technologies,Telecommunication,4702.93,2023-03-09,Operations,UPI
+V012,Microsoft India,TELECOM,53490.66,2023-10-05,IT,Credit Card
+V018,BSNL,Facility Management,10904.87,2023-03-20,Marketing,NEFT
+V014,SAP India,MARKETING,2839.33,2023-09-24,R&D,NEFT
+V017,Airtel Business,Human Resources,58809.23,2023-02-19,Operations,UPI
+V012,Microsoft India,facilities,4648.22,2023-08-09,Legal,Bank Transfer
+V005,Tech Mahindra,CLOUD,9418.48,2023-07-11,IT,Credit Card
+V005,tech mahindra,Legal,5276.51,2023-08-14,Operations,Bank Transfer
+V006,L&T Infotech,LEGAL,17838.73,2023-12-07,HR,UPI
+V004,HCL Technologies,Logistic,241604.02,05/07/2023,R&D,UPI
+V018,BSNL,,21161.13,2023-04-06,IT,Credit Card
+V012,,legal compliance,45421.7,2023-01-15,HR,RTGS
+V015,IBM India,it services,18463.12,2023-09-15,IT,RTGS
+V008,Hexaware Technologies,cloud infrastructure,54041.96,2023-01-20,Procurement,
+V019,DHL India,Logistic,-38356.77,2023-09-15,Procurement,UPI
+V016,Reliance Jio,HR/Payroll,40912.82,2023-08-11,R&D,NEFT
+V016,Reliance Jio,Facilities,128612.91,2023-12-27,Sales,NEFT
+V008,Hexaware Technologies,Marketing,43498.1,2023-02-24,Administration,NEFT
+V002,Infosys Ltd,Human Resources,97782.37,2023-07-23,Finance,
+V001,Tata Consultancy Services,IT services,79001.83,2023-04-12,Sales,Credit Card
+V003,Wipro Technologies,logistics,17201.65,2023-12-15,R&D,UPI
+V020,Blue Dart Express,Mktg,13397.99,2023-02-23,R&D,Cheque
+V017,Airtel Business,,20894.34,2023-07-09,HR,RTGS
+V011,Amazon Web Services,Cloud Infra,134153.6,2023-09-18,Procurement,RTGS
+V004,,logistics,12214.4,2023-02-27,Legal,RTGS
+V008,Hexaware Technologies,telecom,27052.49,2023-12-10,Legal,Credit Card
+V015,IBM India,Supply Chain,85300.69,2023-10-30,R&D,Bank Transfer
+V011,Amazon Web Services,Marketing,2557.12,2023-07-26,IT,Bank Transfer
+V009,Cognizant India,LEGAL,,10/05/2023,Administration,NEFT
+V015,IBM India,cloud infrastructure,7590.38,2023-03-05,IT,UPI
+V014,SAP India,Mktg,57577.0,2023-02-15,Procurement,Credit Card
+V011,Amazon Web Services,Legal,18541.8,01/07/2023,Sales,Credit Card
+V004,HCL Technologies,Supply Chain,24509.24,2023-10-24,Operations,Bank Transfer
+V019,DHL India,Legal & Compliance,79353.63,2023-03-19,Legal,Cheque
+V002,Infosys Ltd,legal compliance,61857.17,2023-12-14,Sales,NEFT
+V008,Hexaware Technologies,marketing,48181.84,2023-10-29,Finance,UPI
+V012,,FACILITIES,349208.02,2023-06-19,Sales,RTGS
+V018,BSNL,Mktg,52148.82,2023-07-14,Sales,Cheque
+V007,Mphasis,facilities,113607.93,2023-05-30,Legal,Credit Card
+V013,,Logistics,14531.72,2023-11-25,Operations,UPI
+V017,Airtel Business,telecom,77189.18,2023-01-12,Marketing,Cheque
+V016,Reliance Jio,it services,46659.71,2023-07-14,IT,Bank Transfer
+V001,Tata Consultancy Services,Mktg,184360.22,2023-07-11,Administration,Cheque
+V017,Airtel Business,LEGAL,6952.08,2023-07-23,Operations,
+V001,Tata Consultancy Services,Facility Management,8601.09,2023-12-07,IT,Credit Card
+V013,Oracle India,it services,3863.32,2023-02-03,Legal,RTGS
+V013,Oracle India,IT services,20538.69,2023-02-04,Legal,RTGS
+V005,Tech Mahindra,HR Payroll,502707.37,2023-06-12,Procurement,RTGS
+V012,Microsoft India,Marketing,14791.62,2023-10-15,Procurement,UPI
+V005,Tech Mahindra,telecom,59040.45,2023-05-31,Finance,NEFT
+V002,,Logistic,195507.33,2023-03-05,Administration,Cheque
+V016,Reliance Jio,Human Resources,22891.78,2023-07-26,Marketing,NEFT
+V009,Cognizant India,Logistics,115387.51,2023-07-15,R&D,
+V008,HEXAWARE TECHNOLOGIES,Telecommunication,18173.68,10/07/2023,Marketing,Bank Transfer
+V019,DHL India,it services,69705.34,2023-01-02,Legal,Cheque
+V016,Reliance Jio,Telecommunication,101004.46,2023-11-12,Administration,Bank Transfer
+V003,Wipro Technologies,HR Payroll,66493.26,2023-02-12,Marketing,RTGS
+V004,HCL Technologies,Legal,481094.48,2023-11-11,R&D,UPI
+V001,Tata Consultancy Services,Facility Management,15811.75,2023-06-07,R&D,
+V003,Wipro Technologies,Legal & Compliance,8491.16,2023-09-24,Marketing,Cheque
+V007,Mphasis,HR/Payroll,56031.8,2023-05-26,Operations,UPI
+V010,Capgemini India,LEGAL,101639.91,2023-05-14,Marketing,RTGS
+V005,Tech Mahindra,IT SERVICES,31735.98,2023-12-02,Sales,Cheque
+V014,,telecom,36539.03,2023-08-11,IT,NEFT
+V016,Reliance Jio,Supply Chain,12268.87,2023-07-22,Operations,
+V011,amazon web services,Cloud Infra,48916.24,2023-10-21,Operations,Credit Card
+V019,DHL India,Telecommunication,17640.49,2023-04-08,Procurement,Bank Transfer
+V018,BSNL,,21161.13,2023-04-06,IT,Credit Card
+V016,Reliance Jio,Facility Management,18406.2,2023-06-14,Legal,Credit Card
+V004,HCL Technologies,Cloud Infra,30763.46,2023-08-05,R&D,Bank Transfer
+V020,Blue Dart Express,IT services,24694.53,2023-04-16,HR,Bank Transfer
+V011,AMAZON WEB SERVICES,Mktg,57001.77,2023-04-23,R&D,Bank Transfer
+V003,Wipro Technologies,,67233.1,2023-04-25,Legal,Credit Card
+V019,DHL India,Mktg,70018.65,2023-01-27,HR,Bank Transfer
+V014,SAP India,Facilities,237416.77,2023-07-24,Administration,NEFT
+V001,Tata Consultancy Services,logistics,225877.68,2023-08-30,Finance,UPI
+V007,Mphasis,legal compliance,13643.62,18/12/2023,Operations,RTGS
+V019,DHL INDIA,Mktg,41723.07,2023-01-17,Marketing,RTGS
+V009,Cognizant India,Cloud Infrastructure,16715.85,2023-11-27,HR,Cheque
+V001,Tata Consultancy Services,HR & Payroll,10187.78,2023-10-19,Procurement,Cheque
+V018,bsnl,logistics,31872.15,2023-05-27,Sales,Bank Transfer
+V001,Tata Consultancy Services,Telecommunication,116119.37,2023-10-16,Operations,NEFT
+V004,HCL Technologies,Telecom,13767.17,2023-05-19,Legal,Bank Transfer
+V007,Mphasis,,13956.85,2023-07-04,Finance,Credit Card
+V019,,logistics,503101.27,2023-01-21,R&D,
+V008,Hexaware Technologies,facilities,20434.72,2023-05-23,Legal,
+V018,BSNL,HR & Payroll,37242.45,2023-08-28,Sales,RTGS
+V011,Amazon Web Services,Legal & Compliance,48550.25,2023-12-02,HR,Cheque
+V007,Mphasis,facilities,72583.04,2023-12-15,Operations,Bank Transfer
+V005,Tech Mahindra,Facility Management,13257.7,2023-01-14,Operations,Bank Transfer
+V006,l&t infotech,Logistics,30127.31,2023-06-06,R&D,Credit Card
+V009,,HR & Payroll,11408.25,2023-03-16,HR,Credit Card
+V004,HCL Technologies,HR Payroll,16413.45,2023-01-20,IT,RTGS
+V002,Infosys Ltd,Supply Chain,28829.86,2023-05-08,Operations,Bank Transfer
+V005,Tech Mahindra,TELECOM,6909.42,2023-06-08,Sales,NEFT
+V005,Tech Mahindra,Legal,9918.36,2023-01-22,Operations,Cheque
+V017,airtel business,HR Payroll,45322.58,2023-12-02,Procurement,NEFT
+V003,Wipro Technologies,MARKETING,45252.37,2023-02-12,Operations,RTGS
+V018,BSNL,FACILITIES,4582.95,2023-07-24,R&D,RTGS
+V002,Infosys Ltd,,54197.74,2023-10-30,Procurement,Cheque
+V012,Microsoft India,HR & Payroll,125141.38,2023-06-07,Finance,RTGS
+V004,HCL Technologies,Cloud Infra,67376.88,2023-06-08,Procurement,Credit Card
+V014,SAP India,Human Resources,20635.21,2023-08-31,Sales,NEFT
+V002,Infosys Ltd,TELECOM,39429.74,2023-01-27,Administration,NEFT
+V020,Blue Dart Express,Legal,50616.3,2023-03-06,HR,
+V008,Hexaware Technologies,it services,5283.08,2023-05-14,Marketing,
+V004,HCL Technologies,Telecommunication,101486.25,2023-02-25,HR,RTGS
+V014,SAP India,Legal & Compliance,204746.51,2023-08-19,Operations,Cheque
+V007,Mphasis,facilities,113607.93,2023-05-30,Legal,Credit Card
+V010,Capgemini India,TELECOM,6753.25,2023-02-11,Administration,UPI
+V001,Tata Consultancy Services,TELECOM,96396.07,2023-08-17,IT,UPI
+V002,Infosys Ltd,logistics,22877.32,2023-01-02,Finance,RTGS
+V015,IBM India,HR/Payroll,583961.47,2023-07-10,Legal,RTGS
+V010,Capgemini India,Human Resources,39037.43,2023-05-10,Finance,
+V003,Wipro Technologies,Telecom,8124.67,2023-12-16,Operations,
+V008,Hexaware Technologies,LEGAL,26936.65,2023-11-20,R&D,Cheque
+V002,Infosys Ltd,Supply Chain,146648.89,2023-03-24,IT,RTGS
+V002,Infosys Ltd,Human Resources,48725.6,12/10/2023,Procurement,Cheque
+V011,Amazon Web Services,FACILITIES,166091.38,2023-12-20,IT,Cheque
+V016,Reliance Jio,Cloud Infra,10045.99,2023-11-08,Legal,NEFT
+V001,Tata Consultancy Services,MARKETING,58974.54,2023-12-06,Marketing,UPI
+V002,Infosys Ltd,Legal & Compliance,13429.46,2023-09-27,Administration,Cheque
+V016,,MARKETING,102632.12,2023-05-30,IT,Cheque
+V013,Oracle India,Facility Management,11126.99,2023-12-26,Procurement,Cheque
+V003,WIPRO TECHNOLOGIES,marketing,14030.31,2023-10-08,IT,Credit Card
+V012,Microsoft India,Telecom,15116.77,2023-05-26,R&D,
+V006,L&T Infotech,Supply Chain,47987.91,2023-12-20,Procurement,RTGS
+V012,Microsoft India,it services,145762.38,2023-09-16,Sales,NEFT
+V012,Microsoft India,HR/Payroll,69334.09,2023-05-07,Operations,Credit Card
+V005,Tech Mahindra,Legal,85909.59,2023-01-24,Finance,Bank Transfer
+V011,Amazon Web Services,TELECOM,55738.06,2023-06-03,R&D,Cheque
+V019,DHL India,Human Resources,49049.8,2023-11-09,Operations,
+V008,Hexaware Technologies,TELECOM,19601.47,2023-02-06,R&D,UPI
+V013,Oracle India,legal compliance,13564.09,2023-07-22,Operations,Bank Transfer
+V004,HCL Technologies,Supply Chain,353681.33,01/03/2023,Administration,Bank Transfer
+V010,Capgemini India,Telecommunication,5359.83,2023-09-01,Legal,Bank Transfer
+V019,DHL India,Logistic,67375.88,2023-07-27,Operations,Bank Transfer
+V003,Wipro Technologies,legal compliance,13145.67,2023-10-12,IT,Bank Transfer
+V007,Mphasis,Logistic,26283.9,2023-10-08,Legal,UPI
+V020,Blue Dart Express,Telecommunication,10859.32,2023-12-07,Sales,
+V003,Wipro Technologies,Facilities,92798.66,2023-11-17,Legal,Credit Card
+V008,Hexaware Technologies,legal compliance,261440.3,2023-02-13,Administration,UPI
+V001,Tata Consultancy Services,marketing,39227.61,2023-09-06,Legal,NEFT
+V010,Capgemini India,Cloud Infra,14365.86,2023-11-01,R&D,UPI
+V009,COGNIZANT INDIA,logistics,44703.95,2023-06-23,Marketing,RTGS
+V007,Mphasis,Logistic,133207.25,2023-03-03,Legal,Bank Transfer
+V002,Infosys Ltd,Marketing,96320.32,2023-08-14,Finance,RTGS
+V008,,Supply Chain,24557.48,2023-06-19,Procurement,RTGS
+V011,Amazon Web Services,Legal & Compliance,52759.56,2023-08-20,Legal,RTGS
+V009,Cognizant India,logistics,8626.09,2023-01-16,Operations,RTGS
+V015,IBM INDIA,HR/Payroll,220318.27,2023-08-22,Administration,Bank Transfer
+V016,Reliance Jio,Legal & Compliance,18173.42,2023-05-24,Procurement,
+V006,,Logistic,12877.17,2023-04-01,IT,Credit Card
+V019,DHL India,marketing,97989.92,2023-04-21,R&D,
+V014,SAP India,telecom,10832.39,2023-06-11,IT,
+V010,Capgemini India,Facilities,22685.25,2023-04-12,Procurement,Bank Transfer
+V020,Blue Dart Express,HR/Payroll,82085.55,2023-01-23,Administration,Cheque
+V001,Tata Consultancy Services,Cloud Infra,8778.75,2023-11-22,Administration,Credit Card
+V012,Microsoft India,legal compliance,41615.2,2023-10-15,Sales,Bank Transfer
+V006,L&T Infotech,Human Resources,38421.66,2023-03-23,Sales,RTGS
+V013,Oracle India,,4163.63,2023-08-17,IT,Bank Transfer
+V018,BSNL,IT SERVICES,15392.5,13/11/2023,Legal,NEFT
+V019,DHL India,Cloud Infra,6644.57,19/08/2023,Marketing,NEFT
+V004,HCL Technologies,legal compliance,28289.71,2023-10-13,Legal,RTGS
+V008,Hexaware Technologies,it services,10459.9,2023-10-22,HR,
+V008,Hexaware Technologies,Cloud Infra,47520.24,2023-02-17,Finance,Cheque
+V018,BSNL,Cloud Infrastructure,75660.5,2023-10-07,IT,Bank Transfer
+V008,Hexaware Technologies,Logistic,9963.72,2023-09-17,Operations,
+V018,BSNL,telecom,65532.6,2023-08-13,HR,
+V008,Hexaware Technologies,IT Services,33973.73,2023-03-03,Legal,
+V014,SAP India,Human Resources,20635.21,2023-08-31,Sales,NEFT
+V015,IBM India,Facilities,-51621.16,2023-02-24,Administration,NEFT
+V018,bsnl,Marketing,109254.39,2023-07-02,Marketing,
+V019,DHL India,Legal,63229.37,2023-01-22,R&D,
+V001,tata consultancy services,Marketing,359079.81,24/06/2023,IT,Credit Card
+V020,Blue Dart Express,HR & Payroll,8694.41,2023-11-18,Operations,Credit Card
+V017,,Human Resources,6483.17,2023-08-10,IT,UPI
+V013,Oracle India,telecom,6159.64,2023-02-07,Legal,Bank Transfer
+V010,Capgemini India,Telecom,168248.59,2023-09-03,Marketing,NEFT
+V016,Reliance Jio,TELECOM,697941.48,2023-10-23,Operations,Credit Card
+V018,BSNL,Facilities,214471.68,2023-08-03,IT,NEFT
+V005,Tech Mahindra,Marketing,141871.75,2023-11-05,IT,NEFT
+V018,BSNL,Marketing,49466.97,2023-09-05,HR,RTGS
+V008,Hexaware Technologies,,40798.28,2023-10-26,Marketing,Credit Card
+V018,,HR Payroll,14698.73,2023-12-02,Procurement,Bank Transfer
+V008,Hexaware Technologies,Logistic,3343.98,2023-05-20,HR,RTGS
+V011,Amazon Web Services,,53578.37,2023-09-08,Sales,RTGS
+V014,SAP India,Mktg,13763.94,2023-04-23,Administration,RTGS
+V008,Hexaware Technologies,telecom,20673.97,2023-03-25,Legal,RTGS
+V004,HCL Technologies,cloud infrastructure,35732.05,09/04/2023,HR,NEFT
+V017,Airtel Business,Telecommunication,27405.4,2023-08-12,Administration,
+V019,DHL India,Logistic,33211.95,2023-04-10,Operations,RTGS
+V008,Hexaware Technologies,Marketing,14187.21,2023-09-18,R&D,Credit Card
+V009,Cognizant India,Cloud Infrastructure,35785.71,2023-08-05,Finance,RTGS
+V004,HCL Technologies,Logistics,82744.45,2023-03-18,R&D,RTGS
+V003,Wipro Technologies,Cloud Infrastructure,17663.11,2023-06-19,Finance,Bank Transfer
+V004,HCL Technologies,legal compliance,-73569.12,2023-07-07,Procurement,Bank Transfer
+V004,HCL Technologies,Supply Chain,9361.42,2023-06-14,Administration,RTGS
+V002,Infosys Ltd,MARKETING,111027.83,2023-07-01,Operations,
+V009,COGNIZANT INDIA,it services,340758.54,2023-09-12,R&D,
+V020,Blue Dart Express,Telecommunication,22153.43,2023-06-22,Operations,RTGS
+V013,Oracle India,HR Payroll,3147.14,2023-04-13,IT,RTGS
+V014,SAP India,Telecommunication,27967.06,2023-11-30,Administration,NEFT
+V001,Tata Consultancy Services,cloud infrastructure,54849.15,2023-05-16,IT,Bank Transfer
+V019,dhl india,LEGAL,19498.17,2023-07-19,Marketing,
+V002,Infosys Ltd,Facility Management,49596.08,2023-12-18,Sales,
+V018,BSNL,logistics,10206.16,2023-05-08,Administration,
+V006,L&T INFOTECH,,,2023-08-08,HR,Credit Card
+V001,Tata Consultancy Services,MARKETING,8391.61,2023-07-28,IT,Cheque
+V003,Wipro Technologies,Cloud Infrastructure,12373.28,2023-01-17,Administration,RTGS
+V014,SAP India,FACILITIES,8643.41,2023-09-19,R&D,Bank Transfer
+V006,L&T Infotech,Human Resources,168251.0,2023-03-27,Sales,Cheque
+V006,L&T Infotech,Telecommunication,,2023-07-04,Operations,RTGS
+V002,Infosys Ltd,Marketing,21912.63,2023-04-24,Legal,Credit Card
+V014,SAP India,HR Payroll,187259.22,2023-02-17,Marketing,Bank Transfer
+V004,HCL Technologies,Supply Chain,13604.22,2023-11-24,Operations,RTGS
+V019,DHL India,Facilities,207186.02,2023-06-19,Sales,Cheque
+V003,WIPRO TECHNOLOGIES,marketing,114253.02,2023-01-31,Finance,
+V013,Oracle India,cloud infrastructure,5894.47,2023-09-29,HR,NEFT
+V016,Reliance Jio,cloud infrastructure,475790.5,2023-03-05,Sales,RTGS
+V005,Tech Mahindra,HR & Payroll,5762.13,2023-07-16,R&D,Cheque
+V016,Reliance Jio,MARKETING,26106.46,2023-01-04,IT,Cheque
+V002,Infosys Ltd,Facilities,19765.0,2023-06-13,Sales,Credit Card
+V015,,cloud infrastructure,15308.86,2023-10-03,Operations,NEFT
+V004,HCL Technologies,CLOUD,15682.95,2023-09-18,HR,Bank Transfer
+V018,BSNL,Legal & Compliance,78782.89,2023-05-29,Marketing,UPI
+V017,Airtel Business,legal compliance,54454.63,2023-11-28,Sales,UPI
+V008,Hexaware Technologies,Logistic,75542.02,2023-12-20,HR,Credit Card
+V011,Amazon Web Services,Supply Chain,20229.0,2023-03-18,HR,UPI
+V018,BSNL,IT services,207781.2,2023-01-08,IT,RTGS
+V011,Amazon Web Services,Human Resources,40064.62,2023-05-07,Finance,Credit Card
+V012,Microsoft India,Logistics,56691.24,2023-05-26,Operations,Bank Transfer
+V001,Tata Consultancy Services,Mktg,106886.18,2023-10-26,Finance,Cheque
+V006,L&T Infotech,IT Services,27696.7,2023-06-15,R&D,Cheque
+V018,BSNL,telecom,,2023-11-20,Administration,NEFT
+V011,Amazon Web Services,Mktg,35496.19,2023-01-09,IT,RTGS
+V015,IBM India,cloud infrastructure,430583.92,2023-06-02,HR,
+V007,Mphasis,Cloud Infra,8458.89,2023-08-17,Sales,UPI
+V014,SAP India,HR & Payroll,28491.72,2023-10-09,Finance,NEFT
+V014,SAP India,logistics,9213.6,2023-09-20,HR,Bank Transfer
+V012,Microsoft India,,33684.23,2023-01-09,Operations,UPI
+V005,Tech Mahindra,,24674.51,2023-09-17,Legal,RTGS
+V005,Tech Mahindra,HR/Payroll,18896.67,2023-09-28,Marketing,
+V004,HCL Technologies,Cloud Infra,160392.56,2023-03-14,Operations,RTGS
+V020,Blue Dart Express,marketing,32632.24,2023-07-30,IT,UPI
+V010,Capgemini India,cloud infrastructure,27773.7,2023-12-02,Operations,Credit Card
+V002,Infosys Ltd,Cloud Infrastructure,11785.32,2023-10-22,Legal,Cheque
+V014,SAP India,CLOUD,12048.45,2023-03-02,Administration,Credit Card
+V014,SAP India,Facility Management,77308.15,2023-11-10,Sales,Cheque
+V015,IBM India,FACILITIES,34833.88,2023-10-19,Marketing,UPI
+V003,Wipro Technologies,TELECOM,114096.76,2023-10-16,Administration,
+V007,Mphasis,telecom,82317.88,2023-04-06,Marketing,Bank Transfer
+V002,Infosys Ltd,Supply Chain,146648.89,2023-03-24,IT,RTGS
+V008,Hexaware Technologies,Logistics,13097.63,2023-01-26,Administration,Bank Transfer
+V018,BSNL,it services,6159.17,2023-12-01,Operations,
+V017,Airtel Business,Cloud Infrastructure,90130.08,2023-05-25,Administration,
+V005,Tech Mahindra,FACILITIES,20240.68,2023-11-29,Administration,RTGS
+V005,Tech Mahindra,legal compliance,33811.95,2023-02-09,Administration,UPI
+V015,IBM India,Telecommunication,47086.91,2023-07-08,HR,Credit Card
+V014,SAP India,Marketing,76681.82,2023-10-31,Administration,Cheque
+V013,Oracle India,IT SERVICES,27332.12,20/10/2023,Administration,Credit Card
+V018,BSNL,HR Payroll,13265.73,2023-03-25,HR,
+V011,Amazon Web Services,Marketing,25026.23,2023-11-09,IT,
+V003,Wipro Technologies,Legal & Compliance,64793.91,2023-11-02,Procurement,UPI
+V011,Amazon Web Services,logistics,,2023-12-23,Administration,Credit Card
+V020,Blue Dart Express,IT SERVICES,121485.64,2023-06-19,Procurement,Credit Card
+V008,Hexaware Technologies,legal compliance,6589.91,2023-10-26,Operations,UPI
+V013,Oracle India,it services,39488.41,2023-08-14,IT,Cheque
+V004,HCL Technologies,Marketing,210823.91,2023-07-11,IT,
+V016,Reliance Jio,logistics,12488.74,2023-12-20,Finance,RTGS
+V015,IBM India,Cloud Infrastructure,17689.91,2023-01-23,Marketing,
+V001,Tata Consultancy Services,logistics,22062.94,2023-11-07,R&D,Credit Card
+V008,Hexaware Technologies,IT Services,36886.55,2023-03-16,Marketing,NEFT
+V019,DHL India,Telecom,93900.9,2023-12-15,Operations,NEFT
+V020,,Cloud Infra,38942.85,2023-08-15,Marketing,Credit Card
+V016,Reliance Jio,MARKETING,26106.46,2023-01-04,IT,Cheque
+V006,L&T Infotech,HR & Payroll,4945.22,2023-08-05,Finance,Bank Transfer
+V011,Amazon Web Services,Logistic,257530.53,2023-03-22,Marketing,Credit Card
+V017,Airtel Business,IT services,39848.58,2023-07-03,Procurement,Cheque
+V004,HCL Technologies,IT Services,-5648.83,2023-08-25,Sales,Cheque
+V004,HCL Technologies,it services,59606.37,2023-01-23,HR,Cheque
+V004,HCL Technologies,LEGAL,12932.57,2023-05-16,Procurement,Cheque
+V014,SAP India,Human Resources,104607.2,2023-05-24,Marketing,Cheque
+V020,Blue Dart Express,IT services,8144.62,2023-12-03,R&D,
+V007,Mphasis,Facilities,47712.65,2023-07-30,HR,Bank Transfer
+V016,Reliance Jio,Telecom,233603.93,2023-03-27,Administration,Bank Transfer
+V002,Infosys Ltd,MARKETING,72538.18,2023-05-14,Marketing,
+V009,Cognizant India,telecom,16058.13,2023-12-13,Marketing,UPI
+V009,Cognizant India,CLOUD,153500.13,2023-01-28,Administration,
+V018,BSNL,Facilities,20824.78,2023-11-24,Marketing,Credit Card
+V020,Blue Dart Express,facilities,42484.25,2023-09-27,Administration,Cheque
+V004,HCL Technologies,IT SERVICES,-51810.3,2023-09-30,Legal,Cheque
+V017,Airtel Business,LEGAL,72046.61,2023-11-27,Legal,
+V010,Capgemini India,IT services,1870.62,2023-04-09,IT,
+V019,DHL India,,126127.42,2023-11-10,Legal,Bank Transfer
+V014,SAP India,HR Payroll,33547.05,2023-05-13,R&D,RTGS
+V016,Reliance Jio,Cloud Infrastructure,20926.4,2023-05-12,Operations,Credit Card
+V014,SAP India,Facility Management,39773.87,2023-07-15,Legal,Cheque
+V017,Airtel Business,CLOUD,97370.93,2023-03-10,Administration,
+V017,Airtel Business,Telecom,25366.66,2023-09-01,IT,Cheque
+V006,L&T Infotech,CLOUD,10622.55,2023-05-14,Marketing,Credit Card
+V002,,HR Payroll,51864.07,2023-09-29,HR,Cheque
+V012,Microsoft India,Telecommunication,18176.31,2023-11-30,R&D,
+V011,Amazon Web Services,telecom,20471.95,2023-07-17,Marketing,Credit Card
+V019,DHL India,MARKETING,18197.11,2023-07-08,Administration,UPI
+V012,MICROSOFT INDIA,HR/Payroll,37885.22,2023-03-22,Legal,RTGS
+V015,IBM India,Human Resources,125361.68,2023-12-21,Administration,Cheque
+V007,Mphasis,Telecommunication,14362.68,2023-01-24,Marketing,Bank Transfer
+V019,DHL INDIA,legal compliance,74175.44,2023-02-01,HR,Credit Card
+V013,Oracle India,HR Payroll,55035.73,2023-08-25,HR,Credit Card
+V009,Cognizant India,MARKETING,89032.11,2023-10-13,Marketing,RTGS
+V014,SAP India,Logistic,21251.49,2023-06-09,R&D,RTGS
+V009,Cognizant India,IT SERVICES,15334.6,2023-04-07,Operations,
+V016,,MARKETING,102632.12,2023-05-30,IT,Cheque
+V005,Tech Mahindra,Logistics,53879.28,2023-06-17,Procurement,NEFT
+V017,Airtel Business,MARKETING,53761.5,2023-12-22,HR,RTGS
+V008,Hexaware Technologies,,149515.69,2023-09-11,R&D,UPI
+V013,ORACLE INDIA,Marketing,50878.22,2023-10-11,Legal,RTGS
+V020,Blue Dart Express,telecom,97389.35,2023-11-29,Marketing,Cheque
+V004,HCL Technologies,IT SERVICES,12999.93,2023-03-12,Finance,Credit Card
+V013,Oracle India,Logistic,,2023-12-04,Finance,Cheque
+V011,Amazon Web Services,MARKETING,35517.62,2023-10-09,Administration,Credit Card
+V012,Microsoft India,Legal & Compliance,17689.54,2023-01-07,Procurement,RTGS
+V016,Reliance Jio,HR Payroll,22870.97,2023-06-13,Legal,Credit Card
+V006,L&T Infotech,,11062.94,2023-10-27,IT,Cheque
+V001,Tata Consultancy Services,Supply Chain,39380.81,2023-01-30,HR,NEFT
+V002,Infosys Ltd,Facility Management,243584.74,2023-03-23,HR,
+V001,,IT Services,2293.18,2023-01-01,Legal,
+V013,Oracle India,,36868.43,2023-02-12,IT,Cheque
+V020,Blue Dart Express,Marketing,41485.83,2023-07-24,Marketing,Credit Card
+V001,Tata Consultancy Services,Facilities,12573.81,2023-08-21,Procurement,RTGS
+V013,,IT SERVICES,96281.45,2023-01-01,Procurement,UPI
+V008,Hexaware Technologies,TELECOM,18494.99,2023-01-25,Operations,
+V012,Microsoft India,it services,75886.95,2023-04-25,IT,
+V006,,Facilities,52510.03,2023-12-15,IT,NEFT
+V012,Microsoft India,CLOUD,13485.95,2023-12-05,Finance,Cheque
+V012,Microsoft India,,9125.32,2023-04-26,HR,Bank Transfer
+V019,DHL India,marketing,25302.93,2023-05-03,Legal,RTGS
+V013,,Human Resources,28899.9,2023-05-02,IT,UPI
+V008,Hexaware Technologies,IT SERVICES,89901.46,2023-01-11,Marketing,RTGS
+V009,Cognizant India,Telecom,10150.07,2023-03-04,Administration,Bank Transfer
+V006,L&T Infotech,Human Resources,438222.02,2023-02-19,Marketing,Cheque
+V003,Wipro Technologies,HR Payroll,-19219.7,2023-06-17,Sales,Cheque
+V011,Amazon Web Services,HR & Payroll,345036.33,2023-06-14,Marketing,UPI
+V020,Blue Dart Express,MARKETING,229956.14,2023-04-26,Marketing,
+V014,SAP India,Telecom,68580.6,2023-07-28,HR,Credit Card
+V008,HEXAWARE TECHNOLOGIES,Cloud Infra,31938.38,2023-03-01,Procurement,Cheque
+V012,Microsoft India,facilities,3142.96,2023-08-08,HR,
+V015,IBM India,TELECOM,26820.4,2023-03-04,HR,NEFT
+V011,Amazon Web Services,Cloud Infrastructure,3697907.91,2023-11-21,Sales,Bank Transfer
+V007,Mphasis,telecom,82317.88,2023-04-06,Marketing,Bank Transfer
+V013,Oracle India,HR/Payroll,12221.15,2023-09-10,Procurement,Cheque
+V016,Reliance Jio,Logistic,96395.19,2023-01-05,Finance,RTGS
+V001,Tata Consultancy Services,Facility Management,16610.61,2023-08-01,Operations,NEFT
+V006,L&T Infotech,MARKETING,,2023-05-14,Finance,Cheque
+V007,Mphasis,Mktg,91210.17,2023-02-10,Marketing,
+V010,Capgemini India,FACILITIES,327011.47,2023-02-07,Procurement,Cheque
+V011,Amazon Web Services,Facilities,174306.64,2023-12-06,Procurement,
+V020,Blue Dart Express,IT services,108932.37,2023-11-26,Operations,Cheque
+V008,Hexaware Technologies,cloud infrastructure,1461036.93,24/02/2023,IT,NEFT
+V019,DHL India,CLOUD,71365.02,2023-07-06,Sales,Bank Transfer
+V017,Airtel Business,IT SERVICES,90288.29,2023-07-08,Finance,
+V004,HCL Technologies,HR Payroll,54513.07,2023-12-22,HR,Credit Card
+V005,Tech Mahindra,Human Resources,103295.56,2023-12-02,Legal,Bank Transfer
+V015,IBM India,HR Payroll,31651.86,2023-01-13,Legal,Cheque
+V005,TECH MAHINDRA,,35969.72,2023-09-13,Marketing,Cheque
+V002,Infosys Ltd,CLOUD,463511.95,2023-08-12,Legal,Cheque
+V010,Capgemini India,IT Services,19214.08,2023-04-13,Legal,RTGS
+V011,Amazon Web Services,TELECOM,25683.64,2023-03-28,Administration,Credit Card
+V012,,Cloud Infra,5864.99,2023-02-10,Procurement,Cheque
+V001,Tata Consultancy Services,Logistics,46113.99,2023-10-20,HR,Cheque
+V008,hexaware technologies,Logistics,26434.14,2023-03-06,Finance,Credit Card
+V011,Amazon Web Services,Telecom,80382.91,2023-03-14,HR,Bank Transfer
+V013,Oracle India,Marketing,12356.07,2023-10-07,R&D,NEFT
+V001,Tata Consultancy Services,facilities,38492.78,2023-01-17,R&D,NEFT
+V004,HCL Technologies,Logistics,553950.95,2023-04-14,Sales,RTGS
+V018,BSNL,Cloud Infra,19847.42,2023-05-10,Legal,RTGS
+V003,Wipro Technologies,Legal,49605.62,2023-12-21,R&D,Cheque
+V007,Mphasis,Telecommunication,34787.34,2023-02-07,R&D,Cheque
+V003,Wipro Technologies,HR Payroll,77707.17,2023-02-16,Procurement,NEFT
+V013,Oracle India,telecom,3457.83,2023-08-05,Marketing,Credit Card
